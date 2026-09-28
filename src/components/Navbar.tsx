@@ -5,7 +5,7 @@ function Navbar() {
     <header className="sticky top-0 z-20 border-b border-border/60 bg-ink/90 backdrop-blur">
       <nav className="mx-auto flex max-w-6xl items-center justify-between px-6 py-5">
         <Link href="/" className="text-xl font-extrabold tracking-tight text-text">
-          A<span className="text-gold">.</span>M
+          <span className="text-gold">Home</span>
         </Link>
 
         <ul className="hidden gap-8 text-sm font-medium text-text-muted md:flex">
